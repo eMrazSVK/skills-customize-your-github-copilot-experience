@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-unit-testing",
+      "title": "Python Unit Testing Fundamentals",
+      "description": "Practice writing and running unit tests in Python with unittest, including assertions and edge cases.",
+      "path": "assignments/python-unit-testing",
+      "dueDate": "2026-06-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
